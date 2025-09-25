@@ -1,5 +1,6 @@
 title: Mukul Tyagi Portfolio
 url: "https://username.github.io"   # replace username
+theme: minima 
 baseurl: ""                         # if repo is NOT username.github.io, set "/repo-name"
 collections:
   projects:
